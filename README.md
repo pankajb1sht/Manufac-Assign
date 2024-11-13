@@ -33,20 +33,29 @@ This project provides a comprehensive analysis of crop production and cultivatio
 ## Build
 
 To build the project, run:
-
-yarn build
-
+    ```bash
+    yarn build
+    ```
 
 ## Folder Structure
 
-src/
-├── components/
-│   ├── TableCard.tsx
-│   ├── Table.tsx
-|
-├── utils/
-│   └── dataProcessor.ts
-├── App.tsx
-├── main.tsx
-└── ... (other necessary files)
+```plaintext
+indian-agriculture-analytics/
+├── public/
+│   └── screenshots/
+│       └── table.png
+├── src/
+│   ├── components/
+│   │   ├── TableCard.tsx
+│   │   └── Table.tsx
+│   ├── utils/
+│   │   └── dataProcessor.ts
+│   ├── App.tsx
+│   ├── Data.json
+│   └── main.tsx
+├── .gitignore
+├── package.json
+├── README.md
+└── yarn.lock
+
 
