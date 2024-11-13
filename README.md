@@ -9,7 +9,7 @@ This project provides a comprehensive analysis of crop production and cultivatio
 
 ## Screenshots
 ### Table 1: Yearly Crop Production Analysis  &  Table 2: Historical Crop Statistics
-![Table1](screenshots/table1.png)
+![Table](public/Screenshot 2024-11-13 195016.png.png)
 
 
 ## Installation
