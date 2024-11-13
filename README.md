@@ -32,9 +32,9 @@ This project provides a comprehensive analysis of crop production and cultivatio
 ## Build
 
 To build the project, run:
-    ```bash
-    yarn build
-    ```
+```bash
+yarn build
+```
 
 ## Folder Structure
 
